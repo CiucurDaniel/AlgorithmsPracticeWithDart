@@ -16,3 +16,4 @@ Each of those dart files has a main function there form where you can run the pr
 | Short name  |  Description  | 
 |---|---|
 | Sum of two numbers  |  Create a function which calculates the sum of two integers |
+| Add up the numbers |  Create a function that takes a number as an argument. Add up all the numbers from 1 to the number you passed to the function. |
